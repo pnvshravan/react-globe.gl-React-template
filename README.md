@@ -1,5 +1,5 @@
 ### Links: 
-1. Github repo: https://github.com/vasturiano/react-globe.gl?tab=readme-ov-file
+1. Original Github repository: https://github.com/vasturiano/react-globe.gl/tree/master
 2. npm page: https://www.npmjs.com/package/react-globe.gl
 
 3. Globe-dark: https://unpkg.com/three-globe@2.41.12/example/img/earth-dark.jpg
