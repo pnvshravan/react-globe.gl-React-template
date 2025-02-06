@@ -1,5 +1,11 @@
-### Repository link: 
-https://github.com/vasturiano/react-globe.gl?tab=readme-ov-file
+### Links: 
+1. Github repo: https://github.com/vasturiano/react-globe.gl?tab=readme-ov-file
+2. npm page: https://www.npmjs.com/package/react-globe.gl
+
+3. Globe-dark: https://unpkg.com/three-globe@2.41.12/example/img/earth-dark.jpg
+4. Globe-marble: https://unpkg.com/three-globe/example/img/earth-blue-marble.jpg
+5. backgroundImageUrl: https://unpkg.com/three-globe/example/img/night-sky.png
+
 ---
 
 Create your first React Globe visualization using react-globe.gl. Let's break this down into clear, manageable steps.
