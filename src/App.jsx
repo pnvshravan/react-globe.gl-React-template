@@ -1,7 +1,6 @@
 import './index.css'
 import MyGlobe from './MyGlobe.jsx';
 
-
 const App=() =>{
   return (
     <>
