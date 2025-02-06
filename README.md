@@ -111,19 +111,3 @@ Let me walk you through the complete process of setting up and understanding thi
      );
    }
    ```
-
-6. Customization Options
-   You can enhance this basic setup by:
-   - Adding custom point colors and sizes
-   - Implementing click handlers for interactivity
-   - Adding labels or tooltips
-   - Customizing camera behavior
-   - Adding arcs or lines between points
-
-Would you like me to explain how to add any specific features to this basic globe? For example, we could add:
-- Animated arcs between points
-- Custom hover effects
-- Different globe textures
-- Additional data visualizations
-
-Remember that this is just a starting point - react-globe.gl offers many more features for creating sophisticated geographic visualizations.
